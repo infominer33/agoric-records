@@ -1,6 +1,6 @@
 ---
 title: Mark Sam Miller
-date: '2018-06-28 15:16:01 +0000'
+date: '2018-06-25 15:16:01 +0000'
 layout: posts
 categories: blog
 abstract: This post is a demonstration of indieweb blogging.

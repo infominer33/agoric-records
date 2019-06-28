@@ -3,7 +3,7 @@ title: The Agoric Records
 date: '2018-06-27 22:16:01 +0000'
 layout: posts
 categories: blog
-abstract: I'll use this site for information around Agoric, Mark Miller, E-Rights, and Object Capabilities.
+abstract: I'll use this site for information around Agoric, Eric Drexler, Mark Miller, E-Rights, and Object Capabilities.
 author: Infominer
 permalink: '/posts/:year/:title/'
 ---
@@ -18,3 +18,4 @@ I came across:
 
 I didn't understand why noone was talking about it, but I found someone who knew about it, and am just beginning to fall down this particular rabbit hole.
 
+Each of these pages will gradually gain structure, and I expect for this to become a formidable resource, over the course of time.
