@@ -5,8 +5,9 @@ layout: posts
 categories: blog
 abstract: I'll use this site for information around Agoric, Eric Drexler, Mark Miller, E-Rights, and Object Capabilities.
 author: Infominer
-permalink: '/posts/:year/:title/'
+permalink: '/about/'
 ---
+
 
 I'm quite intrigued by what I found to be sort of the lost history of Smart Contracts. A year ago, I couldn't find too many people who knew about this, but I found about the E-Rights smart contract language while researching a [basic introduction](https://www.axiomtech.io/blog-feed/2018/10/9/smart-contracts-uses-cases-dapps-icos) to the subject.
 

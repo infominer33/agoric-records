@@ -5,7 +5,7 @@ layout: posts
 categories: blog
 abstract:   The capability paradigm is about access control. When a system, such as an OS or a website, is presented with a request for a service it provides, it needs to decide if it should actually do what the requestor is asking for. 
 author: Infominer
-permalink: '/posts/:year/:title/'
+permalink: '/object-capabilities/'
 ---
 
 

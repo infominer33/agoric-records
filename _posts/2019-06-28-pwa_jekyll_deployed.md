@@ -5,7 +5,7 @@ layout: posts
 categories: blog
 abstract: This post is a demonstration of indieweb blogging.
 author: Infominer
-permalink: '/posts/:year/:title/'
+permalink: '/pwa-jekyll-deployed/'
 ---
 
 >This is some content. It's not good content. It's fine content. I mean, it'll do. Content ain't cheap these days. Take what you can get. Wow Bob Wow.
