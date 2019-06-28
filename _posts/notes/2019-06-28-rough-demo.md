@@ -1,6 +1,6 @@
 ---
 title: "Rough Demo - Testing Indieweb Features"
-date: '2018-02-04 10:28pm'
+date: '2018-06-28 8:17am'
 layout: posts
 categories: note
 abstract: 'For now the posts are sort of place-holders.'
