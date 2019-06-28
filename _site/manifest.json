@@ -1,8 +1,8 @@
 
 {
-  "name": "Jekyll PWA",
-  "short_name": "jPWA",
-  "description": "A Great PWA for you to enjoy.",
+  "name": "Agoric Records",
+  "short_name": "AgPub",
+  "description": "Public Domain InfoHub related to Agoric, Mark Miller, and ObCap",
   "icons": [{
       "src": "/static-assets/images/icon-16x16.png",
       "sizes": "16x16",

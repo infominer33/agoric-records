@@ -1,16 +1,19 @@
 platform:
   - name: twitter
-    url: 'https://twitter.com/jshvgt'
+    url: 'https://twitter.com/infominer33'
     class: u-url
   - name: github
-    url: 'https://github.com/dumaurier'
+    url: 'https://github.com/infominer33'
     class: u-url
   - name: email
-    url: 'mailto:joshvogt@gmail.com'
+    url: 'mailto:infominer@protonmail.com'
     class: u-email
-  - name: sms
-    url: 'sms:+14169671111'
-    class: u-tel
-  - name: my site
-    url: 'https://joshvogt.co'
+  - name: infominer.id
+    url: 'https://infominer.id/'
+    class: u-url
+  - name: SourceCrypto
+    url: 'https://sourcecrypto.pub/'
+    class: u-url
+  - name: "Web-work Tools"
+    url: 'https://sourcecrypto.pub/'
     class: u-url

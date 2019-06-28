@@ -1,10 +1,10 @@
 ---
-title: Jekyll PWA Starter
+title: Exploring the Agoric Vision, Mark Miller and ObCap 
 timezone: UTC
 destination: _site/
-domainname: https://pwa-jekyll-starter.netlify.com
-baseurl: /
-sitename: My Website
+domainname: https://agoric-records.netlify.com
+baseurl: '/'
+sitename: Agoric Records
 assetsurl: /static-assets/
 markdown: kramdown
 highlighter: rouge
