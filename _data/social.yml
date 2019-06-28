@@ -11,9 +11,6 @@ platform:
   - name: infominer.id
     url: 'https://infominer.id/'
     class: u-url
-  - name: SourceCrypto
-    url: 'https://sourcecrypto.pub/'
-    class: u-url
-  - name: "Web-work Tools"
-    url: 'https://sourcecrypto.pub/'
+  - name: "Web-work"
+    url: 'https://web-work.tools/'
     class: u-url
