@@ -5,7 +5,7 @@ layout: posts
 categories: blog
 abstract: This post is a demonstration of indieweb blogging.
 author: Infominer
-permalink: '/posts/:year/mark-miller/'
+permalink: '/posts/mark-miller/'
 ---
 
 

@@ -5,7 +5,7 @@ layout: posts
 categories: blog
 abstract: These three papers by Mark S. Miller and K. Eric Drexler appeared in The Ecology of Computation, Bernardo Huberman (ed.) Elsevier Science Publishers/North-Holland, 1988. 
 author: Infominer
-permalink: '/posts/:year/markets-incentive-ecosystems/'
+permalink: '/posts/markets-incentive-ecosystems/'
 ---
 
 * [Mark Miller: Agoric and the Decades-Long Quest for Secure Smart Contracts.](https://epicenter.tv/episode/286/) -Epicenter Podcast
