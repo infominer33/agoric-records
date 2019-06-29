@@ -1,8 +1,8 @@
 ---
-title: Exploring the Agoric Vision, Mark Miller and ObCap 
+title: Agoric Info Indieweb Edition
 timezone: UTC
 destination: _site/
-domainname: https://agoric-records.netlify.com
+domainname: https://agoric-records.xyz
 baseurl: '/'
 sitename: Agoric Records
 assetsurl: /static-assets/
@@ -28,5 +28,5 @@ sass:
 # webmentions = true/false
 # bootstrap = true/false
 webmentions: true
-bootstrap: false
+bootstrap: true
 

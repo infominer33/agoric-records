@@ -3,4 +3,4 @@ domainname: agoric-records.xyz
 twitter: infominer33
 opengraph: true
 webmention: true
-bootstrap: false
+bootstrap: true

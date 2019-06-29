@@ -1,5 +1,5 @@
 ---
-title: Jekyll + PWA + IndieWeb
+title: "Object Capabilities, E Smart-Contract Language, Agoric Papers, Mark Miller, and Eric Drexler."
 all: true
 page_only: true
 layout: default
@@ -8,10 +8,11 @@ pagestyle: home.css
 pagejs: home.js
 ---
 
-<h1 class="heading">{{ site.title }}</h1>
 
-  <section class="block feed-block">
-    <h2>Blog</h2>
+<h1 class="heading">{{ page.title }}</h1>
+<section class="block feed-block">
+  <div class="container-fluid">
+      <h2>Blog</h2>
       <ul class="posts-list">
         {% for post in site.categories.blog %}
         <li>
@@ -42,7 +43,7 @@ pagejs: home.js
          {% endfor %}
           </ul>
   </section>
-
+</div>
 
   <script>
   if (window.netlifyIdentity) {

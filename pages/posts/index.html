@@ -1,5 +1,5 @@
 ---
-title: Jekyll + PWA + IndieWeb - Posts
+title: Agoric Records
 all: true
 page_only: true
 layout: default
@@ -8,17 +8,16 @@ pagestyle: home.css
 pagejs: home.js
 ---
 
-<h1 class="heading">{{ site.title }}</h1>
-
+<div class="container-fluid">
 <section class="block feed-block">
 <h2>Posts</h2>
   <ul class="posts-list">
     {% for post in site.categories.blog %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }} - {{ post.date | date: '%B %d, %Y' }}</a>
+      <a href="{{ post.url }}">{{ post.title }}</a>
       <p>{{ post.abstract }}</p>
     </li>
     {% endfor %}
   </ul>
 </section>
-
+</div>
